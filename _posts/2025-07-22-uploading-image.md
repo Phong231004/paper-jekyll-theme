@@ -14,8 +14,7 @@ Let's work !
 
 ## Practice
 
-![test_kitten_from_internet]([https://www.google.com/imgres?q=%E1%BA%A3nh%20con%20m%C3%A8o&imgurl=https%3A%2F%2Fcdn2.fptshop.com.vn%2Funsafe%2FUploads%2Fimages%2Ftin-tuc%2F168364%2FOriginals%2Fmeme-con-meo%2520(1).jpg&imgrefurl=https%3A%2F%2Ffptshop.com.vn%2Ftin-tuc%2Fdanh-gia%2Fmeme-con-meo-168364&docid=4zLbS2nDKf95RM&tbnid=o1iMk8npEV32fM&vet=12ahUKEwiK98HI_M-OAxVbjVYBHXLYEUQQM3oECAoQAA..i&w=1200&h=750&hcb=2&ved=2ahUKEwiK98HI_M-OAxVbjVYBHXLYEUQQM3oECAoQAA](https://cdn2.fptshop.com.vn/unsafe/Uploads/images/tin-tuc/168364/Originals/meme-con-meo%20(1).jpg
-))
+![test_kitten_from_internet](https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_16x9.jpg?w=1200)
 
 This is how to upload the image from the internet!
 
