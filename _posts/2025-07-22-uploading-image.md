@@ -1,7 +1,7 @@
 ---
-layout: post
-title: "Let's upoload the image!"
-description: "Test post for image uploading"
+layout: get
+title: "Develop images of the topic!"
+description: "Many images of a lot of topic because we want to develop website. It will help we study new things"
 date: 2025-07-22
 tags: [test, style]
 comments: true
